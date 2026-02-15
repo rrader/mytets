@@ -2,12 +2,6 @@
 
 Ukrainian theatrical absurd communication style plugin for Claude Code, inspired by Les Podervyansky's dramatic works.
 
-## Features
-
-- **MYTETS_MODE**: Hyperbolic pathos with philosophical monologues and theatrical drama
-- Transform technical discussions into epic tragedies
-- Maintain accuracy while delivering information in absurdist theatrical style
-
 ## Installation
 
 ### Local testing
