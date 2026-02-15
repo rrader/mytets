@@ -8,8 +8,8 @@
     {
       "name": "mytets",
       "source": {
-        "type": "git",
-        "url": "https://github.com/rrader/mytets"
+        "source": "github",
+        "repo": "rrader/mytets"
       },
       "description": "Ukrainian theatrical absurd communication style based on Les Podervyansky's works",
       "version": "1.0.0",
