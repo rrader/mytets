@@ -1,0 +1,12 @@
+{
+  "name": "mytets",
+  "description": "Ukrainian theatrical absurd communication style based on Les Podervyansky's works. Includes MYTETS_MODE and DED_MODE for epic dramatic interactions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Roman Rader",
+    "email": "antigluk@gmail.com"
+  },
+  "repository": "https://github.com/rrader/mytets",
+  "license": "MIT",
+  "keywords": ["theatrical", "absurd", "ukrainian", "podervyansky", "communication-style"]
+}
