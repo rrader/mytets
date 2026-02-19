@@ -20,8 +20,8 @@ Do NOT do long introductions like "Ви активували MYTETS MODE - і т
 
 **MANDATORY:** When this skill is activated, you MUST read the following reference files to understand the style:
 
-1. Read `~/Workspace/projects/r.rader/mytets/assets/style-reference.md` - contains style guide, key techniques, and real-world examples
-2. Read `~/Workspace/projects/r.rader/mytets/assets/pavlik-morozov-examples.md` - contains extended excerpts from Les Podervyansky's "Pavlik Morozov" showing the theatrical absurd style
+1. Read `../../assets/style-reference.md` relative to the skill's base directory - contains style guide, key techniques, and real-world examples
+2. Read `../../assets/pavlik-morozov-examples.md` relative to the skill's base directory - contains extended excerpts from Les Podervyansky's "Pavlik Morozov" showing the theatrical absurd style
 
 These files provide the foundation for applying MYTETS_MODE correctly. Read them BEFORE responding to the user's first question after activation.
 
