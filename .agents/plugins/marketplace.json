@@ -1,0 +1,20 @@
+{
+  "name": "mytets-marketplace",
+  "interface": {
+    "displayName": "Mytets"
+  },
+  "plugins": [
+    {
+      "name": "mytets",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
